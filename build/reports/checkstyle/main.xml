@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.41">
+<file name="/home/silvandro/Área de Trabalho/Bootcamp Inter/Desenvolvimento básico em Java/caracteristicas/src/main/java/Teste.java">
+<error line="3" column="1" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="5" column="5" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="6" column="5" severity="warning" message="O &apos;{&apos; na coluna 5 deveria estar na linha anterior." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="7" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era um desses: 4, 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="8" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era um desses: 4, 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era um desses: 4, 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era um desses: 4, 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era um desses: 4, 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="23" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="12" column="25" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="12" column="27" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="12" column="29" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="13" column="13" severity="warning" message="O filho de &apos;block&apos; está no nível de indentação incorreto de 12. O nível esperado era o 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era um desses: 4, 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="26" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="16" column="13" severity="warning" message="O filho de &apos;block&apos; está no nível de indentação incorreto de 12. O nível esperado era o 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>
